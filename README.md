@@ -1,2 +1,3 @@
 # Rockets
-This game was made by Carlo Marzetta
+This is the most generic space game you will find.
+created by Carlo Marzetta
